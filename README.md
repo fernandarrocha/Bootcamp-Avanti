@@ -1,2 +1,3 @@
 # Bootcamp-Avanti
-Exercícios para o bootcamp de Machine learning
+
+Respostas para os exercícios do bootcamp de Machine learning, da empresa Avanti.
